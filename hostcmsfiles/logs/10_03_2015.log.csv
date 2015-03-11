@@ -1,0 +1,22 @@
+"2015-03-10 21:47:43",undefined,"<strong>Предупреждение:</strong> mysql_connect(): Access denied for user ''@'localhost' (using password: NO) в файле C:\OpenServer\domains\russtroy\www\modules\core\database\mysql.php (строка 55)
+Стек вызовов:
+Файл: modules\core\database\mysql.php, строка 55,
+Файл: install\index.php, строка 559",3,-,http://russtroy/install/index.php,127.0.0.1
+"2015-03-10 21:47:43",undefined,"Database open connection error 1045: Access denied for user ''@'localhost' (using password: NO)
+35 modules\core\exception.php
+61 modules\core\database\mysql.php
+559 install\index.php",0,-,http://russtroy/install/index.php,127.0.0.1
+"2015-03-10 21:48:35",undefined,"Database select error 1049: Unknown database 'russtroy'
+35 modules\core\exception.php
+95 modules\core\database\mysql.php
+66 modules\core\database\mysql.php
+559 install\index.php",0,-,http://russtroy/install/index.php,127.0.0.1
+"2015-03-10 21:49:09",undefined,"Database select error 1049: Unknown database 'russtroy'
+35 modules\core\exception.php
+95 modules\core\database\mysql.php
+66 modules\core\database\mysql.php
+559 install\index.php",0,-,http://russtroy/install/index.php,127.0.0.1
+"2015-03-10 21:53:09",admin,"Вход в систему управления",4,-,http://russtroy/admin/index.php,127.0.0.1
+"2015-03-10 21:53:50",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,"Демонстрационный сайт",http://russtroy/admin/structure/index.php,127.0.0.1
+"2015-03-10 21:53:57",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,"Демонстрационный сайт",http://russtroy/admin/structure/index.php,127.0.0.1
+"2015-03-10 21:54:49",admin,"Доступ к модулю ""structure"" разрешен, форма ""Статистика"", действие ""Удалить""",1,"Демонстрационный сайт",http://russtroy/admin/structure/index.php,127.0.0.1

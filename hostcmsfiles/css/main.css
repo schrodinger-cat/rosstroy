@@ -1,0 +1,284 @@
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+
+html {
+    background: url(/images/site/main__bg.jpg) 100% 100% no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+textarea {
+    resize: vertical;
+}
+
+
+/* ==========================================================================
+   Schrodingercat custom styles
+   ========================================================================== */
+
+.r-main {
+    width: 1280px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+    .r-head {
+        overflow: hidden;
+        padding: 20px 0 0 27px;
+    }
+        .r-logo {
+            float: left;
+            margin-right: 72px;
+            overflow: hidden;
+        }
+
+        .r-menu {
+            margin-top: 23px;
+            width: 700px;
+            overflow: hidden;
+        }
+            .r-menu__elem {
+                display: inline-block;
+                padding: 10px 18px;
+                background-color: #fff;
+                color: #000;
+                border-radius: 5px;
+                margin-right: 25px;
+                text-decoration: none;
+                text-transform: uppercase;
+                font-family: 'Ubuntu', sans-serif;
+                font-size: 16px;
+            }
+
+        .r-language {
+            float: right;
+            width: 200px;
+            overflow: hidden;
+            text-align: right;
+            height: 50px;
+            margin-top: -35px;
+        }
+            .r-laguage__elem {
+                display: block;
+                padding: 7px 10px;
+                color: #fff;
+                font-size: 16px;
+                float: right;
+                font-family: 'Ubuntu', sans-serif;
+                text-decoration: none;
+                overflow: hidden;
+            }
+                .r-language__elem_current {
+                    background: #063469 url(/images/site/language__bg.png) 0 0 repeat-x;
+                    border-radius: 5px;
+                    font-weight: bold;
+                }
+    
+    .r-content {
+        background-color: #fff;
+        position: absolute;
+        bottom: 75px;
+        left: 37px;
+        border-radius: 5px;
+        width: 744px;
+        height: 63%;
+        overflow-y: scroll;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 14px;
+        padding: 40px 10px 25px 20px;
+    }
+        .r-content_small {
+            width: 529px;
+            height: 164px; 
+        }
+
+        .r-content__close {
+            width: 17px;
+            height: 17px;
+            background: url(/images/site/close__icon.jpg) 0 0 no-repeat;
+            cursor: pointer;
+            position: absolute;
+            top: 7px;
+            right: 7px;
+        }
+
+    .r-bottom {
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 11px;
+        position: absolute;
+        bottom: 17px;
+        right: 35px;
+    }
+        .r-bottom__elem {
+            color: #fff;
+            display: inline-block;
+            margin-left: 43px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    *,
+    *:before,
+    *:after {
+        background: transparent !important;
+        color: #000 !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    a[href^="#"]:after,
+    a[href^="javascript:"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group;
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

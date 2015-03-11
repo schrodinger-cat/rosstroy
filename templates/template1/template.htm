@@ -1,0 +1,56 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title><?php Core_Page::instance()->showTitle()?></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="/hostcmsfiles/css/normalize.min.css">
+        <link rel="stylesheet" href="/hostcmsfiles/css/main.css">
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
+
+    </head>
+
+    <body>
+        <div class="r-main">
+            <div class="r-head">
+                <a href="/" class="r-logo">
+                    <img src="/images/site/logo.png" alt="Росстройпроект">
+                </a>
+
+                <div class="r-menu">
+                    <a href="#" class="r-menu__elem">Институт</a>
+                    <a href="#" class="r-menu__elem">Проекты</a>
+                    <a href="#" class="r-menu__elem">Контакты</a>
+                </div>
+
+                <div class="r-language">
+                    <a href="#" class="r-laguage__elem r-language__elem_current">ru</a>
+                    <a href="#" class="r-laguage__elem">en</a>
+                </div>
+            </div>
+
+            <div class="r-content">
+                <div class="r-content__close"></div>
+
+                <?php
+					Core_Page::instance()->execute();
+				?>
+            </div>
+
+            <div class="r-bottom">
+            	<a href="http://hostcms.ru" class="r-bottom__elem">HostCMS</a>
+                <a href="mailto:rosstroyproekt@mail.ru" class="r-bottom__elem">rosstroyproekt@mail.ru</a>
+                <span class="r-bottom__elem">© НИиПИ "РОССТРОЙПРОЕКТ"</span>
+                <span class="r-bottom__elem">Волгоград 2010 - 2015</span>
+            </div>
+        </div>
+
+        <script>window.jQuery || document.write('<script src="/hostcmsfiles/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+        <script src="/hostcmsfiles/js/plugins.js"></script>
+        <script src="/hostcmsfiles/js/main.js"></script>
+    </body>
+</html>
