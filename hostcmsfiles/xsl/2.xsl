@@ -7,45 +7,31 @@
 	<xsl:output xmlns="http://www.w3.org/TR/xhtml1/strict" doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN" encoding="utf-8" indent="yes" method="html" omit-xml-declaration="no" version="1.0" media-type="text/xml"/>
 	
 	<xsl:template match="/site">
-		<ul class="top_menu">
-			<!-- Выбираем узлы структуры первого уровня -->
+		<div class="r-menu">
 			<xsl:apply-templates select="structure[show=1]" />
-		</ul>
+		</div>
 	</xsl:template>
 	
 	<!-- Запишем в константу ID структуры, данные для которой будут выводиться пользователю -->
 	<xsl:variable name="current_structure_id" select="/site/current_structure_id"/>
 	
 	<xsl:template match="structure">
-		<li>
-			<!--
-			Выделяем текущую страницу добавлением к li класса current,
-			если это текущая страница, либо у нее есть ребенок с атрибутом id, равным текущей группе.
-			-->
-			<xsl:if test="$current_structure_id = @id or count(.//structure[@id=$current_structure_id]) = 1">
-				<xsl:attribute name="class">current</xsl:attribute>
+		<a href="{link}" class="r-menu__elem">
+			<xsl:if test="$current_structure_id = @id or structure/@id = $current_structure_id">
+				<xsl:attribute name="class">r-menu__elem r-menu__elem_active</xsl:attribute>	
 			</xsl:if>
-			
-			<xsl:if test="position() = last()">
-				<xsl:attribute name="style">background-image: none</xsl:attribute>
-			</xsl:if>
-			
-			<!-- Определяем адрес ссылки -->
-			<xsl:variable name="link">
-				<xsl:choose>
-					<!-- Если внешняя ссылка -->
-					<xsl:when test="url != ''">
-						<xsl:value-of disable-output-escaping="yes" select="url"/>
-					</xsl:when>
-					<!-- Иначе если внутренняя ссылка -->
-					<xsl:otherwise>
-						<xsl:value-of disable-output-escaping="yes" select="link"/>
-					</xsl:otherwise>
-				</xsl:choose>
-			</xsl:variable>
-			
-			<!-- Ссылка на пункт меню -->
-			<a href="{$link}" title="{name}" hostcms:id="{@id}" hostcms:field="name" hostcms:entity="structure"><xsl:value-of disable-output-escaping="yes" select="name"/></a>
-		</li>
+
+			<xsl:value-of disable-output-escaping="yes" select="name"/>
+		</a>
+
+		<xsl:if test="count(structure) != 0">
+			<xsl:apply-templates select="structure" mode="second"/>
+		</xsl:if>
+	</xsl:template>
+
+	<xsl:template match="structure" mode="second">
+		<a href="{link}" class="r-menu__elem">
+			<xsl:value-of disable-output-escaping="yes" select="name"/>
+		</a>
 	</xsl:template>
 </xsl:stylesheet>

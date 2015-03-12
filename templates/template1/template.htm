@@ -4,11 +4,15 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title><?php Core_Page::instance()->showTitle()?></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="description" content="<?php Core_Page::instance()->showDescription()?>" />
+        <meta name="keywords" content="<?php Core_Page::instance()->showKeywords()?>" />
+        <meta content="text/html; charset=<?php echo SITE_CODING?>" http-equiv="Content-Type" />
 
         <link rel="stylesheet" href="/hostcmsfiles/css/normalize.min.css">
         <link rel="stylesheet" href="/hostcmsfiles/css/main.css">
+
+        <link rel="stylesheet" href="/hostcmsfiles/js/vendor/scroll/jquery.mCustomScrollbar.css">
         <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
 
     </head>
@@ -20,11 +24,22 @@
                     <img src="/images/site/logo.png" alt="Росстройпроект">
                 </a>
 
-                <div class="r-menu">
+                <?php
+                    $Structure_Controller_Show = new Structure_Controller_Show(
+                        Core_Entity::factory('Site', CURRENT_SITE));
+
+                    $Structure_Controller_Show->xsl(
+                        Core_Entity::factory('Xsl')->getByName('ВерхнееМеню')
+                    )
+                    ->menu(1)
+                    ->show();
+                ?>
+
+                <!-- <div class="r-menu">
                     <a href="#" class="r-menu__elem">Институт</a>
                     <a href="#" class="r-menu__elem">Проекты</a>
                     <a href="#" class="r-menu__elem">Контакты</a>
-                </div>
+                </div> -->
 
                 <div class="r-language">
                     <a href="#" class="r-laguage__elem r-language__elem_current">ru</a>
@@ -48,7 +63,8 @@
             </div>
         </div>
 
-        <script>window.jQuery || document.write('<script src="/hostcmsfiles/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+        <script>window.jQuery || document.write('<script src="/hostcmsfiles/jquery/jquery.js"><\/script>')</script>
+        <script src="/hostcmsfiles/js/vendor/scroll/jquery.mCustomScrollbar.concat.min.js"></script>
 
         <script src="/hostcmsfiles/js/plugins.js"></script>
         <script src="/hostcmsfiles/js/main.js"></script>

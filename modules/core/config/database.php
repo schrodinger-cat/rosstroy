@@ -6,6 +6,6 @@ return array (
 		'host' => 'localhost',
 		'username' => 'root',
 		'password' => '',
-		'database' => 'russtroy'
+		'database' => 'rosstroy'
 	)
 );

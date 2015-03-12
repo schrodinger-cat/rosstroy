@@ -77,10 +77,15 @@ textarea {
                 font-family: 'Ubuntu', sans-serif;
                 font-size: 16px;
             }
+                .r-menu__elem_active {
+                    font-weight: bold;
+                    color: #fff;
+                    background-color: #00316a;
+                }
 
         .r-language {
             float: right;
-            width: 200px;
+            width: 150px;
             overflow: hidden;
             text-align: right;
             height: 50px;
@@ -110,7 +115,6 @@ textarea {
         border-radius: 5px;
         width: 744px;
         height: 63%;
-        overflow-y: scroll;
         font-family: 'Ubuntu', sans-serif;
         font-size: 14px;
         padding: 40px 10px 25px 20px;

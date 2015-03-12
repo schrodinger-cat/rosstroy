@@ -22,3 +22,13 @@
 }());
 
 // Place any jQuery/helper plugins in here.
+
+$(document).ready(function(){
+    $('.r-content').mCustomScrollbar({
+        axis: 'y',
+        theme:"dark",
+        scrollButtons: {
+            enable: true
+        }
+    });
+});
