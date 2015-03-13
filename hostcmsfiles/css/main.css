@@ -108,12 +108,13 @@ textarea {
                     }
 
         .r-language {
-            float: right;
             width: 150px;
             overflow: hidden;
             text-align: right;
             height: 50px;
-            margin-top: -35px;
+            position: absolute;
+            top: 43px;
+            right: 35px;            
         }
             .r-laguage__elem {
                 display: block;
@@ -153,9 +154,10 @@ textarea {
             height: 17px;
             background: url(/images/site/close__icon.jpg) 0 0 no-repeat;
             cursor: pointer;
-            position: absolute;
-            top: 7px;
-            right: 7px;
+            position: fixed;
+            overflow: hidden;
+            margin-left: 727px;
+            margin-top: -25px;
         }
 
     .r-bottom {

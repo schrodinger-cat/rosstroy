@@ -15,9 +15,11 @@
 	
 		<xsl:choose>
 			<xsl:when test="structure[@id = $current_structure_id]/parent_id = 0">
-				<div class="r-menu__inner">
-					<xsl:apply-templates select="structure[@id = $current_structure_id]/structure" mode="second"/>
-				</div>
+				<xsl:if test="count(structure[@id = $current_structure_id]/structure) != 0">
+					<div class="r-menu__inner">
+						<xsl:apply-templates select="structure[@id = $current_structure_id]/structure" mode="second"/>
+					</div>
+				</xsl:if>
 			</xsl:when>
 			<xsl:otherwise>
 				<xsl:variable name="parent" select="//structure[@id = $current_structure_id]/parent_id" />

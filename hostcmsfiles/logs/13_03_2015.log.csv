@@ -1,0 +1,211 @@
+"2015-03-13 11:11:26",admin,"Выход из системы управления",1,Росстройпроект,http://rosstroy.dev/admin/logout.php?_=1426234285874,127.0.0.1
+"2015-03-13 11:27:08",undefined,"Попытка доступа к модулю structure незарегистрированным пользователем",4,-,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-13 11:27:19",undefined,"Попытка доступа к модулю structure незарегистрированным пользователем",4,-,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-13 11:27:19",admin,"Вход в систему управления",4,-,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-13 11:27:19",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-13 11:27:24",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88,127.0.0.1
+"2015-03-13 11:27:27",admin,"Доступ к модулю ""document"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/document/index.php,127.0.0.1
+"2015-03-13 11:27:32",admin,"Доступ к модулю ""document"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/document/index.php?document_dir_id=3,127.0.0.1
+"2015-03-13 11:27:35",admin,"Доступ к модулю ""document"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/document/index.php?document_dir_id=3,127.0.0.1
+"2015-03-13 11:27:58",admin,"Доступ к модулю ""document"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/document/index.php?document_dir_id=3&hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-13 11:28:03",admin,"Доступ к модулю ""document"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/document/index.php?document_dir_id=3,127.0.0.1
+"2015-03-13 11:28:19",admin,"Доступ к модулю ""document"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/document/index.php?document_dir_id=3&hostcms[checked][1][11]=1,127.0.0.1
+"2015-03-13 11:29:07",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88,127.0.0.1
+"2015-03-13 11:29:11",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?lib_id=0,127.0.0.1
+"2015-03-13 11:29:15",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка документов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?document_dir_id=3,127.0.0.1
+"2015-03-13 11:29:18",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88&hostcms[checked][0][95]=1,127.0.0.1
+"2015-03-13 11:31:31",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88,127.0.0.1
+"2015-03-13 11:31:32",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?lib_id=0,127.0.0.1
+"2015-03-13 11:31:36",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88,127.0.0.1
+"2015-03-13 11:31:39",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php,127.0.0.1
+"2015-03-13 11:31:44",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Статистика"", действие ""Удалить""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php,127.0.0.1
+"2015-03-13 11:31:47",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Список интернет-магазинов"", действие ""Удалить пустые директории""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php,127.0.0.1
+"2015-03-13 11:31:49",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php,127.0.0.1
+"2015-03-13 11:33:20",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php?hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-13 11:33:55",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15,127.0.0.1
+"2015-03-13 11:33:59",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=15&informationsystem_group_id=0,127.0.0.1
+"2015-03-13 11:34:01",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=15&informationsystem_group_id=0,127.0.0.1
+"2015-03-13 11:34:37",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=15&informationsystem_group_id=0&hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-13 11:34:44",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15,127.0.0.1
+"2015-03-13 11:34:50",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15,127.0.0.1
+"2015-03-13 11:37:04",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-13 11:37:11",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15,127.0.0.1
+"2015-03-13 11:38:21",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-13 11:38:31",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88,127.0.0.1
+"2015-03-13 11:38:32",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?lib_id=0,127.0.0.1
+"2015-03-13 11:38:37",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка типовых динамических страниц""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?lib_dir_id=15,127.0.0.1
+"2015-03-13 11:38:39",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?lib_id=1,127.0.0.1
+"2015-03-13 11:38:40",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=98,127.0.0.1
+"2015-03-13 11:38:41",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=97,127.0.0.1
+"2015-03-13 11:38:41",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=96,127.0.0.1
+"2015-03-13 11:38:41",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=95,127.0.0.1
+"2015-03-13 11:38:46",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88&hostcms[checked][0][93]=1,127.0.0.1
+"2015-03-13 11:40:18",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php,127.0.0.1
+"2015-03-13 11:40:49",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-13 11:40:54",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-13 11:40:59",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-13 11:41:03",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-13 11:41:06",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-13 11:41:13",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2&hostcms[checked][1][233]=1,127.0.0.1
+"2015-03-13 11:54:38",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88,127.0.0.1
+"2015-03-13 11:54:41",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?lib_id=1,127.0.0.1
+"2015-03-13 11:54:43",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=95,127.0.0.1
+"2015-03-13 11:54:44",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=96,127.0.0.1
+"2015-03-13 11:54:45",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=98,127.0.0.1
+"2015-03-13 11:54:46",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=97,127.0.0.1
+"2015-03-13 11:54:50",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88&hostcms[checked][0][93]=1,127.0.0.1
+"2015-03-13 16:26:01",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 92 element call-template в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=SHOW_XML,127.0.0.1
+"2015-03-13 16:26:03",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): The called template 'for' was not found. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=SHOW_XML,127.0.0.1
+"2015-03-13 16:26:07",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 92 element call-template в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-13 16:26:07",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): The called template 'for' was not found. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-13 16:26:27",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 92 element call-template в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-13 16:26:27",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): The called template 'for' was not found. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-13 16:31:02",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 92 element call-template в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-13 16:31:02",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): The called template 'for' was not found. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-13 16:33:08",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-13 16:36:13",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 150 element img в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-13 16:36:13",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'is_dir' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-13 16:36:14",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template1\template.htm, строка 48,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/?hostcmsAction=HIDE_XML,127.0.0.1
