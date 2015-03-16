@@ -108,32 +108,39 @@
 	
 	<xsl:template match="informationsystem_item">
 		<div class="r-news__elem">
+			<div class="r-news__text">
+				<div class="r-news__date">
+					<xsl:value-of select="substring-before(date, '.')"/>
+					<xsl:variable name="month_year" select="substring-after(date, '.')"/>
+					<xsl:variable name="month" select="substring-before($month_year, '.')"/>
+					<xsl:choose>
+						<xsl:when test="$month = 1"> января </xsl:when>
+						<xsl:when test="$month = 2"> февраля </xsl:when>
+						<xsl:when test="$month = 3"> марта </xsl:when>
+						<xsl:when test="$month = 4"> апреля </xsl:when>
+						<xsl:when test="$month = 5"> мая </xsl:when>
+						<xsl:when test="$month = 6"> июня </xsl:when>
+						<xsl:when test="$month = 7"> июля </xsl:when>
+						<xsl:when test="$month = 8"> августа </xsl:when>
+						<xsl:when test="$month = 9"> сентября </xsl:when>
+						<xsl:when test="$month = 10"> октября </xsl:when>
+						<xsl:when test="$month = 11"> ноября </xsl:when>
+						<xsl:otherwise> декабря </xsl:otherwise>
+					</xsl:choose>
+					<xsl:value-of select="substring-after($month_year, '.')"/><xsl:text> г.</xsl:text>
+				</div>
 
-			<xsl:value-of select="substring-before(date, '.')"/>
-			<xsl:variable name="month_year" select="substring-after(date, '.')"/>
-			<xsl:variable name="month" select="substring-before($month_year, '.')"/>
-			<xsl:choose>
-				<xsl:when test="$month = 1"> января </xsl:when>
-				<xsl:when test="$month = 2"> февраля </xsl:when>
-				<xsl:when test="$month = 3"> марта </xsl:when>
-				<xsl:when test="$month = 4"> апреля </xsl:when>
-				<xsl:when test="$month = 5"> мая </xsl:when>
-				<xsl:when test="$month = 6"> июня </xsl:when>
-				<xsl:when test="$month = 7"> июля </xsl:when>
-				<xsl:when test="$month = 8"> августа </xsl:when>
-				<xsl:when test="$month = 9"> сентября </xsl:when>
-				<xsl:when test="$month = 10"> октября </xsl:when>
-				<xsl:when test="$month = 11"> ноября </xsl:when>
-				<xsl:otherwise> декабря </xsl:otherwise>
-			</xsl:choose>
-			<xsl:value-of select="substring-after($month_year, '.')"/><xsl:text> г.</xsl:text>
 
-			<a href="{url}" class="r-news__link">
-				<xsl:value-of disable-output-escaping="yes" select="name"/>
-			</a>
+				<a href="{url}" class="r-news__link">
+					<xsl:value-of disable-output-escaping="yes" select="name"/>
+				</a>
 
-			<xsl:value-of disable-output-escaping="yes" select="description"/>
-			<a href="{url}">Читать дальше →</a>
+				<xsl:value-of disable-output-escaping="yes" select="description"/>
+
+				<a href="{url}" class="r-news__next">Читать дальше →</a>
+
+				
+			</div>
 
 			<xsl:if test="count(property_value) != 0">
 				<div class="r-news__photos">
@@ -143,12 +150,14 @@
 				</div>
 			</xsl:if>
 
+			<div class="r-news__line"></div>
+
 		</div>	
 	</xsl:template>
 
 	<xsl:template match="property_value" mode="photos">
 		<xsl:param name="is_dir" />
-		<img src="{$is_dir}{file_small}" alt="{file_name}"/>
+		<img src="{$is_dir}{file_small}" class="r-news__img" alt="{file_name}"/>
 	</xsl:template>
 
 	<xsl:template name="for">
