@@ -31,4 +31,13 @@ $(document).ready(function(){
             enable: true
         }
     });
+
+
+    $('.r-portrets__slider').bxSlider({
+        pager: false,
+        nextSelector: '.r-portrets__next',
+        prevSelector: '.r-portrets__prev',
+        nextText: '',
+        prevText: ''
+    });
 });

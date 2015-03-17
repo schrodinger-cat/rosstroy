@@ -41,9 +41,14 @@
                 </div>
             </div>
 
-            <?php
-                Core_Page::instance()->execute();
-            ?>
+            <div class="r-map" id="r-map"></div>
+            
+            <div class="r-content r-content_contacts">
+                <div class="r-content__close r-content__close_contacts"></div>
+                    <?php
+                        Core_Page::instance()->execute();
+                    ?>
+            </div>
 
             <div class="r-bottom">
             	<a href="http://hostcms.ru" class="r-bottom__elem">HostCMS</a>
@@ -56,6 +61,7 @@
         <script>window.jQuery || document.write('<script src="/hostcmsfiles/jquery/jquery.js"><\/script>')</script>
         <script src="/hostcmsfiles/js/vendor/scroll/jquery.mCustomScrollbar.concat.min.js"></script>
         <script src="/hostcmsfiles/js/vendor/bxSlider/jquery.bxslider.min.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;amp;sensor=false"></script>
 
         <script src="/hostcmsfiles/js/plugins.js"></script>
         <script src="/hostcmsfiles/js/main.js"></script>
