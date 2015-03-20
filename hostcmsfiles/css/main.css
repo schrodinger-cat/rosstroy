@@ -45,7 +45,8 @@ textarea {
    ========================================================================== */
 
 .r-main {
-    width: 1280px;
+    width: 100%;
+    min-width: 975px;
     margin: 0 auto;
     overflow: hidden;
     position: relative;
@@ -64,7 +65,7 @@ textarea {
 
         .r-menu {
             margin-top: 23px;
-            width: 700px;
+            width: auto;
             overflow: hidden;
         }
             .r-menu__elem {
@@ -87,7 +88,10 @@ textarea {
 
             .r-menu__inner {
                 overflow: hidden;
-                float: left;
+                display: inline-block;
+                /* float: left; */
+                /* min-width: 50%; */
+                /* max-width: 75%; */
                 background-color: #00316a;
                 margin-top: 8px;
                 padding: 10px 18px;
