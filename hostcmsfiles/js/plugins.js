@@ -40,4 +40,6 @@ $(document).ready(function(){
         nextText: '',
         prevText: ''
     });
+
+    $('.r-bg__slider').bxSlider();
 });

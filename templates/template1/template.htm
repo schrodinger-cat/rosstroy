@@ -33,6 +33,20 @@
                     ->menu(1)
                     ->showInformationsystemGroups(TRUE)
                     ->show();
+
+                    $struct = array(1=>18, 92=>19, 93=>20, 94=>21, 95=>22, 96=>23, 97=>23);
+
+                    $Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+                        Core_Entity::factory('Informationsystem', 18)
+                    );
+
+                    $Informationsystem_Controller_Show
+                        ->xsl(
+                            Core_Entity::factory('Xsl')->getByName('СлайдерФона')
+                        )
+                        ->limit(50)
+                        ->group($struct[CURRENT_STRUCTURE_ID])
+                        ->show();
                 ?>
 
                 <div class="r-language">
