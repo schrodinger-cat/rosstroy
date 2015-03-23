@@ -14,17 +14,21 @@
 	</xsl:template>
 	
 	<xsl:template match="/informationsystem">
-		
-		<script>
-			$('.slider').bxSlider({
-				<xsl:apply-templates select="informationsystem_item"/>
-			});
-		</script>
+		<xsl:if test="count(informationsystem_item) != 0">
+			<script>
+				$('#example, body').vegas({
+					delay: 10000,
+	    			slides: [
+	    				<xsl:apply-templates select="informationsystem_item"/>
+	    		    ]
+				});
+			</script>
+		</xsl:if>		
 	</xsl:template>
 	
 	<xsl:template match="informationsystem_item">
-		name: <xsl:value-of select="name"/>,
+		{src: '<xsl:value-of select="dir"/><xsl:value-of select="image_large"/>'}
+		<xsl:if test="position() != last()">,</xsl:if>
 	</xsl:template>
-
 	
 </xsl:stylesheet>

@@ -24,6 +24,10 @@
 								<div class="r-menu__inner">
 									<xsl:apply-templates select="structure[@id = $current_structure_id]/informationsystem_group" mode="ig_second"/>
 								</div>
+
+								<xsl:if test="count(structure[@id = $current_structure_id]/informationsystem_group/informationsystem_group) != 0">
+									<xsl:apply-templates select=".//structure[@id = $current_structure_id]/informationsystem_group/informationsystem_group" mode="ig_last"/>
+								</xsl:if>
 							</xsl:when>
 							<xsl:otherwise>
 								<div class="r-menu__inner">
@@ -39,14 +43,17 @@
 							<div class="r-menu__inner">
 								<xsl:apply-templates select="structure[@id = $parent]/informationsystem_group" mode="ig_second"/>
 							</div>
+
+							<xsl:if test="count(structure[@id = $parent]/informationsystem_group/informationsystem_group) != 0">
+								<xsl:apply-templates select=".//structure[@id = $parent]/informationsystem_group/informationsystem_group" mode="ig_last"/>
+							</xsl:if>
 						</xsl:when>
 						<xsl:otherwise>
 							<div class="r-menu__inner">
 								<xsl:apply-templates select="structure[@id = $parent]/structure" mode="second"/>
 							</div>
 						</xsl:otherwise>
-					</xsl:choose>
-					
+					</xsl:choose>					
 				</xsl:otherwise>
 			</xsl:choose>
 
@@ -83,5 +90,9 @@
 			
 			<xsl:value-of disable-output-escaping="yes" select="name"/>
 		</a>
+	</xsl:template>
+
+	<xsl:template match="informationsystem_group" mode="ig_lasts">
+		<xsl:value-of disable-output-escaping="yes" select="name"/>
 	</xsl:template>
 </xsl:stylesheet>

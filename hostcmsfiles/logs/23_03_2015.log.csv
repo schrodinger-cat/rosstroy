@@ -93,3 +93,318 @@
 "2015-03-23 16:31:55",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18,127.0.0.1
 "2015-03-23 16:31:57",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=18,127.0.0.1
 "2015-03-23 16:32:03",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=18,127.0.0.1
+"2015-03-23 19:27:25",undefined,"Database select error 1049: Unknown database 'rosstroy'
+35 modules\core\exception.php
+95 modules\core\database\mysql.php
+66 modules\core\database\mysql.php
+608 modules\core\database\mysql.php
+60 modules\core\querybuilder\statement.php
+480 modules\core\orm.php
+409 modules\core\entity.php
+100 modules\core\core.php
+50 bootstrap.php
+18 index.php",0,-,http://rosstroy/,127.0.0.1
+"2015-03-23 19:27:26",undefined,"Database select error 1049: Unknown database 'rosstroy'
+35 modules\core\exception.php
+95 modules\core\database\mysql.php
+66 modules\core\database\mysql.php
+608 modules\core\database\mysql.php
+60 modules\core\querybuilder\statement.php
+480 modules\core\orm.php
+409 modules\core\entity.php
+100 modules\core\core.php
+50 bootstrap.php
+18 index.php",0,-,http://rosstroy/favicon.ico,127.0.0.1
+"2015-03-23 19:28:52",admin,"Вход в систему управления",4,-,http://rosstroy/admin/index.php,127.0.0.1
+"2015-03-23 19:28:56",admin,"Доступ к модулю ""site"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/site/index.php,127.0.0.1
+"2015-03-23 19:28:59",admin,"Доступ к модулю ""lib"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/site/alias/index.php?site_id=1,127.0.0.1
+"2015-03-23 19:29:04",admin,"Доступ к модулю ""lib"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/site/alias/index.php?site_id=1,127.0.0.1
+"2015-03-23 19:29:13",admin,"Доступ к модулю ""lib"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/site/alias/index.php?site_id=1&hostcms[checked][0][0]=1,127.0.0.1
+"2015-03-23 19:32:26",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/xsl/index.php,127.0.0.1
+"2015-03-23 19:32:29",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-23 19:40:16",admin,"Выход из системы управления",1,Росстройпроект,http://rosstroy/admin/logout.php?_=1427128816372,127.0.0.1
+"2015-03-23 19:52:54",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:52:54",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 28 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:52:54",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '{dir}{image_large}' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:52:54",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:54:33",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:54:33",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 28 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:54:33",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '{dir}{image_large}' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:54:33",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:55:38",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:55:38",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 29 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:55:38",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '{dir}{image_large}' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:55:38",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:55:53",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:55:53",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 29 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:55:53",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '{dir}{image_large}' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:55:53",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:56:43",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:56:44",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 29 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:56:44",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '{dir}{image_large}' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:56:44",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:56:59",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:56:59",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 29 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:56:59",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '{dir}{image_small}' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 19:56:59",undefined,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: templates\template1\template.htm, строка 53,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/,127.0.0.1
+"2015-03-23 20:09:23",undefined,"Попытка доступа к модулю informationsystem незарегистрированным пользователем",4,-,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-23 20:09:27",undefined,"Попытка доступа к модулю informationsystem незарегистрированным пользователем",4,-,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-23 20:09:27",admin,"Вход в систему управления",4,-,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-23 20:09:27",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-23 20:09:30",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18,127.0.0.1
+"2015-03-23 20:09:34",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-23 20:09:36",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-23 20:53:52",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19&hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-23 20:54:15",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие ""Создать ярлык""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-23 20:54:23",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Статистика"", действие ""Удалить""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-23 20:54:35",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-23 20:54:40",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-23 20:54:57",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/index.php?hostcms[checked][1][18]=1,127.0.0.1
+"2015-03-23 20:55:03",admin,"Доступ к модулю ""constant"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/constant/index.php,127.0.0.1
+"2015-03-23 20:55:14",admin,"Доступ к модулю ""constant"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/constant/index.php,127.0.0.1
+"2015-03-23 20:55:25",admin,"Доступ к модулю ""constant"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/constant/index.php,127.0.0.1
+"2015-03-23 20:55:31",admin,"Доступ к модулю ""constant"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/constant/index.php?hostcms[checked][1][6]=1,127.0.0.1
+"2015-03-23 20:55:40",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18,127.0.0.1
+"2015-03-23 20:55:42",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-23 20:55:44",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-23 20:55:56",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19&hostcms[checked][1][0]=1,127.0.0.1
