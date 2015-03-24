@@ -26,7 +26,9 @@
 
                 <?php
                     $Structure_Controller_Show = new Structure_Controller_Show(
-                        Core_Entity::factory('Site', CURRENT_SITE));
+                        Core_Entity::factory('Site', CURRENT_SITE));                    
+
+                       //Core_Page::instance()->object->group
 
                     $Structure_Controller_Show->xsl(
                         Core_Entity::factory('Xsl')->getByName('ВерхнееМеню')
@@ -42,11 +44,9 @@
                 </div>
             </div>
             
-            <div class="r-portrets_wrap">
             <?php
                 Core_Page::instance()->execute();
             ?>
-            </div>
 
             <div class="r-bottom">
             	<a href="http://hostcms.ru" class="r-bottom__elem">HostCMS</a>

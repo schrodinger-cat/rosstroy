@@ -114,6 +114,20 @@ textarea {
                         font-weight: bold;
                     }
 
+            .r-menu__last {
+                display: block;
+                float: left;
+                margin: 15px 35px 0 15px;
+                color: #000;
+                background-color: #fff;
+                padding: 2px;
+            }
+                .r-menu__last:hover, .r-menu__last_active {
+                    background-color: #a30000;
+                    color: #fff;
+                    text-decoration: none;
+                }
+
         .r-language {
             width: 150px;
             overflow: hidden;

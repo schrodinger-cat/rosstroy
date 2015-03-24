@@ -21,18 +21,24 @@
 					<xsl:if test="count(structure[@id = $current_structure_id]/structure) != 0 or count(structure[@id = $current_structure_id]/informationsystem_group) != 0">
 						<xsl:choose>
 							<xsl:when test="count(structure[@id = $current_structure_id]/informationsystem_group) != 0">
+
 								<div class="r-menu__inner">
 									<xsl:apply-templates select="structure[@id = $current_structure_id]/informationsystem_group" mode="ig_second"/>
 								</div>
 
 								<xsl:if test="count(structure[@id = $current_structure_id]/informationsystem_group/informationsystem_group) != 0">
-									<xsl:apply-templates select=".//structure[@id = $current_structure_id]/informationsystem_group/informationsystem_group" mode="ig_last"/>
+
+									<xsl:apply-templates select="structure[@id = $current_structure_id]/informationsystem_group/informationsystem_group" mode="ig_last"/>
+
 								</xsl:if>
+
 							</xsl:when>
 							<xsl:otherwise>
+
 								<div class="r-menu__inner">
 									<xsl:apply-templates select="structure[@id = $current_structure_id]/structure" mode="second"/>
 								</div>
+
 							</xsl:otherwise>
 						</xsl:choose>					
 					</xsl:if>
@@ -40,18 +46,22 @@
 				<xsl:otherwise>
 					<xsl:choose>
 						<xsl:when test="count(structure[@id = $parent]/informationsystem_group) != 0">
+
 							<div class="r-menu__inner">
 								<xsl:apply-templates select="structure[@id = $parent]/informationsystem_group" mode="ig_second"/>
 							</div>
 
 							<xsl:if test="count(structure[@id = $parent]/informationsystem_group/informationsystem_group) != 0">
-								<xsl:apply-templates select=".//structure[@id = $parent]/informationsystem_group/informationsystem_group" mode="ig_last"/>
+								<xsl:apply-templates select="structure[@id = $parent]/informationsystem_group/informationsystem_group" mode="ig_last"/>
 							</xsl:if>
+
 						</xsl:when>
 						<xsl:otherwise>
+
 							<div class="r-menu__inner">
 								<xsl:apply-templates select="structure[@id = $parent]/structure" mode="second"/>
 							</div>
+
 						</xsl:otherwise>
 					</xsl:choose>					
 				</xsl:otherwise>
@@ -92,7 +102,9 @@
 		</a>
 	</xsl:template>
 
-	<xsl:template match="informationsystem_group" mode="ig_lasts">
-		<xsl:value-of disable-output-escaping="yes" select="name"/>
+	<xsl:template match="informationsystem_group" mode="ig_last">
+		<a href="{url}" class="r-menu__last">
+			<xsl:value-of disable-output-escaping="yes" select="name"/>
+		</a>
 	</xsl:template>
 </xsl:stylesheet>

@@ -1,0 +1,57 @@
+"2015-03-24 15:40:10",admin,"Доступ к модулю ""constant"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/constant/index.php,127.0.0.1
+"2015-03-24 15:40:17",admin,"Доступ к модулю ""constant"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/constant/index.php,127.0.0.1
+"2015-03-24 15:40:23",admin,"Доступ к модулю ""constant"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/constant/index.php?hostcms[checked][1][6]=1,127.0.0.1
+"2015-03-24 15:41:49",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 36,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/,127.0.0.1
+"2015-03-24 15:41:51",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 31 element apply-templates в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 36,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/,127.0.0.1
+"2015-03-24 15:41:51",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): XSLT-apply-templates: could not compile select expression '.structure[@id = $current_structure_id]/informationsystem_group/informationsystem_group' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 36,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/,127.0.0.1
+"2015-03-24 15:41:51",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 36,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/,127.0.0.1
+"2015-03-24 16:41:07",admin,"Доступ к модулю ""lib"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/lib/index.php,127.0.0.1
+"2015-03-24 16:41:16",admin,"Доступ к модулю ""lib"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/lib/index.php?lib_dir_id=15,127.0.0.1
+"2015-03-24 16:45:54",admin,"<strong>Замечание:</strong> Trying to get property of non-object в файле C:\OpenServer\domains\rosstroy\www\templates\template1\template.htm (строка 44)
+Стек вызовов:
+Файл: templates\template1\template.htm, строка 44,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",2,Росстройпроект,http://rosstroy.dev/,127.0.0.1
