@@ -7,6 +7,7 @@
 	<xsl:output xmlns="http://www.w3.org/TR/xhtml1/strict" doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN" encoding="utf-8" indent="yes" method="html" omit-xml-declaration="no" version="1.0" media-type="text/xml"/>
 	
 	<xsl:variable name="current_structure_id" select="/site/current_structure_id"/>
+	<xsl:variable name="gid" select="/site/gid"/>
 
 	<xsl:template match="/site">
 		<div class="r-menu">
@@ -26,11 +27,18 @@
 									<xsl:apply-templates select="structure[@id = $current_structure_id]/informationsystem_group" mode="ig_second"/>
 								</div>
 
-								<xsl:if test="count(structure[@id = $current_structure_id]/informationsystem_group/informationsystem_group) != 0">
+								<xsl:choose>
+									<xsl:when test=".//informationsystem_group[@id = $gid]/subgroups_total_count != 0">
+										<xsl:apply-templates select=".//informationsystem_group[@id = $gid]/informationsystem_group" mode="ig_last"/>
+									</xsl:when>
+									<xsl:otherwise>
 
-									<xsl:apply-templates select="structure[@id = $current_structure_id]/informationsystem_group/informationsystem_group" mode="ig_last"/>
-
-								</xsl:if>
+										<xsl:if test=".//informationsystem_group[@id = $gid]/parent_id != 0">
+											<xsl:variable name="g_parent" select=".//informationsystem_group[@id = $gid]/parent_id"/>
+											<xsl:apply-templates select=".//informationsystem_group[@id = $g_parent]/informationsystem_group" mode="ig_last"/>
+										</xsl:if>
+									</xsl:otherwise>
+								</xsl:choose>
 
 							</xsl:when>
 							<xsl:otherwise>
@@ -94,16 +102,24 @@
 
 	<xsl:template match="informationsystem_group" mode="ig_second">
 		<a href="{url}" class="r-menu__inner-elem">
-			<xsl:if test="@id = $current_structure_id">
-				<xsl:attribute name="class">r-menu__inner-elem r-menu__inner-elem_active</xsl:attribute>	
+			<xsl:if test="@id = $gid">
+				<xsl:attribute name="class">r-menu__inner-elem r-menu__inner-elem_active</xsl:attribute>
 			</xsl:if>
-			
+
+			<xsl:if test="@id = .//informationsystem_group[@id = $gid]/parent_id">
+				<xsl:attribute name="class">r-menu__inner-elem r-menu__inner-elem_active</xsl:attribute>
+			</xsl:if>
+
 			<xsl:value-of disable-output-escaping="yes" select="name"/>
 		</a>
 	</xsl:template>
 
 	<xsl:template match="informationsystem_group" mode="ig_last">
 		<a href="{url}" class="r-menu__last">
+			<xsl:if test="@id = $gid">
+				<xsl:attribute name="class">r-menu__last r-menu__last_active</xsl:attribute>
+			</xsl:if>
+
 			<xsl:value-of disable-output-escaping="yes" select="name"/>
 		</a>
 	</xsl:template>

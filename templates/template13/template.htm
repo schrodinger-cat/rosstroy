@@ -27,8 +27,17 @@
                 <?php
                     $Structure_Controller_Show = new Structure_Controller_Show(
                         Core_Entity::factory('Site', CURRENT_SITE));                    
+                    $gid = 0;
 
-                       //Core_Page::instance()->object->group
+                    if (isset(Core_Page::instance()->object->group)) {
+                        $gid = Core_Page::instance()->object->group;
+                    }                    
+
+                    $Structure_Controller_Show->addEntity(
+                          Core::factory('Core_Xml_Entity')
+                          ->name('gid')->value($gid)
+                       );
+
 
                     $Structure_Controller_Show->xsl(
                         Core_Entity::factory('Xsl')->getByName('ВерхнееМеню')

@@ -55,3 +55,301 @@
 Файл: modules\core\command\controller\default.php, строка 417,
 Файл: modules\core\router\route.php, строка 190,
 Файл: index.php, строка 242",2,Росстройпроект,http://rosstroy.dev/,127.0.0.1
+"2015-03-24 19:58:58",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-24 19:58:58",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-24 20:08:13",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/xsl/index.php?hostcms[action]=edit&xsl_dir_id=1&hostcms[checked][1][2]=1,127.0.0.1
+"2015-03-24 20:11:51",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/?hostcmsAction=SHOW_XML,127.0.0.1
+"2015-03-24 20:11:51",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 10 element variable в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/?hostcmsAction=SHOW_XML,127.0.0.1
+"2015-03-24 20:11:51",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): XSLT-variable: Failed to compile the XPath expression '/site/'. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/?hostcmsAction=SHOW_XML,127.0.0.1
+"2015-03-24 20:11:51",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/?hostcmsAction=SHOW_XML,127.0.0.1
+"2015-03-24 20:17:03",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:03",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 98 element if в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:03",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:if : could not compile test expression '@id = $gid OR @id = .//informationsystem_group[@id = $gid]/parent_id' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:03",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:32",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:32",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 98 element if в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:32",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:if : could not compile test expression '@id = $gid OR @id = //informationsystem_group[@id = $gid]/parent_id' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:32",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:49",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:49",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 98 element if в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:49",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:if : could not compile test expression '@id = $gid OR @id = /informationsystem_group[@id = $gid]/parent_id' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:17:49",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:21:54",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:21:54",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 99 element when в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:21:54",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:when : could not compile test expression '@id = $gid OR @id = /informationsystem_group[@id = $gid]/parent_id' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:21:54",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:23:15",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:23:15",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 99 element when в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:23:15",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:when : could not compile test expression '@id = $gid OR @id = .//informationsystem_group[@id = $gid]/parent_id' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:23:15",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template13\template.htm, строка 47,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-24 20:55:31",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-24 20:55:33",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17,127.0.0.1
+"2015-03-24 20:55:40",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=9,127.0.0.1
+"2015-03-24 20:55:52",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-24 21:02:00",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-24 21:02:37",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-24 21:04:07",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/structure/index.php,127.0.0.1
+"2015-03-24 21:04:11",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/structure/index.php,127.0.0.1
+"2015-03-24 21:04:12",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?lib_id=1,127.0.0.1
+"2015-03-24 21:04:12",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?xsl_dir_id=2&lib_property_id=95,127.0.0.1
+"2015-03-24 21:04:13",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?xsl_dir_id=2&lib_property_id=96,127.0.0.1
+"2015-03-24 21:04:13",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?xsl_dir_id=2&lib_property_id=97,127.0.0.1
+"2015-03-24 21:04:13",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?xsl_dir_id=2&lib_property_id=98,127.0.0.1
+"2015-03-24 21:04:46",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?hostcms[checked][0][89]=1,127.0.0.1
+"2015-03-24 21:25:16",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17,127.0.0.1
+"2015-03-24 21:25:18",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-24 21:25:23",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-24 21:25:38",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/index.php?hostcms[checked][1][17]=1,127.0.0.1
+"2015-03-24 21:25:59",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=16,127.0.0.1
+"2015-03-24 21:26:03",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-24 21:26:05",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17,127.0.0.1
+"2015-03-24 21:26:08",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=9,127.0.0.1
+"2015-03-24 21:26:10",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-24 21:26:15",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-24 21:26:28",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][166]=1,127.0.0.1
+"2015-03-24 21:27:01",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/index.php,127.0.0.1
+"2015-03-24 21:27:03",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18,127.0.0.1
+"2015-03-24 21:27:06",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-24 21:27:11",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Статистика"", действие ""Удалить""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-24 21:27:14",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-24 21:27:25",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19&hostcms[checked][1][0]=1,127.0.0.1
