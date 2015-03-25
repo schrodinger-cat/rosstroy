@@ -950,3 +950,28 @@
 "2015-03-25 15:47:28",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][166]=1,127.0.0.1
 "2015-03-25 15:47:33",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
 "2015-03-25 15:47:59",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][166]=1,127.0.0.1
+"2015-03-25 19:34:10",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=19,127.0.0.1
+"2015-03-25 19:59:05",admin,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Comment not terminated 
+&amp;lt;!-- slide = $(this).attr('data-slide');
+				slide in Entity, line: 58 в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 39)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 39,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 61,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/,127.0.0.1
+"2015-03-25 20:35:15",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/structure/index.php,127.0.0.1
+"2015-03-25 20:35:57",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?parent_id=90,127.0.0.1
+"2015-03-25 20:36:00",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?parent_id=90,127.0.0.1
+"2015-03-25 20:36:01",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?lib_id=0,127.0.0.1
+"2015-03-25 20:36:07",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?parent_id=90&hostcms[checked][0][97]=1,127.0.0.1
+"2015-03-25 20:38:12",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?parent_id=90,127.0.0.1
+"2015-03-25 20:38:13",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?lib_id=0,127.0.0.1
+"2015-03-25 20:38:22",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?parent_id=90&hostcms[checked][0][97]=1,127.0.0.1

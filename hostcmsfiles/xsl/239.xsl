@@ -26,7 +26,7 @@
 
     		<img src="/images/site/arrow_right.jpg" class="r-projects__right" alt="arrow right"/>
 
-    		<img src="/images/site/hide.jpg" alt="hide all"/>
+    		<img src="/images/site/hide.jpg" class="r-projects__hide" alt="hide all"/>
 		</div>
 
 		<script>
@@ -38,7 +38,12 @@
     				<xsl:apply-templates select=".//informationsystem_item/property_value" mode="images">
     					<xsl:with-param name="dir" select=".//informationsystem_item/dir"/>
     				</xsl:apply-templates>
-    		    ]
+    		    ],
+    		    walk: function (index) {
+    		    	index++;
+    		    	$('.r-projects__thumbs').removeClass('r-projects__thumbs_active');
+			        $('.r-projects__thumbs_'+index).addClass('r-projects__thumbs_active');
+			    }
 			});
 
 			$('.r-projects__left').on('click', function(){
@@ -52,9 +57,6 @@
 			$('.r-projects__thumbs').on('click', function(){
 				slide = $(this).attr('data-slide');
 				slide--;
-
-				$('.r-projects__thumbs').removeClass('r-projects__thumbs_active');
-				$(this).addClass('r-projects__thumbs_active');
 
 				$('body').vegas('jump', slide);
 			});
@@ -77,10 +79,10 @@
 
 	<xsl:template match="property_value" mode="controls">
 		<xsl:param name="dir"/>
-
-		<div class="r-projects__thumbs" data-slide="{position()}">
+		
+		<div class="r-projects__thumbs r-projects__thumbs_{position()}" data-slide="{position()}">
 			<xsl:if test="position() = 1">
-				<xsl:attribute name="class">r-projects__thumbs r-projects__thumbs_active</xsl:attribute>	
+				<xsl:attribute name="class">r-projects__thumbs r-projects__thumbs_active r-projects__thumbs_<xsl:value-of select="position()"/></xsl:attribute>	
 			</xsl:if>
 
 			<div class="r-projects__overflow"></div>

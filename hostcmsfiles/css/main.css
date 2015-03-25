@@ -386,6 +386,46 @@ textarea {
         }
             .r-projects__thumbs_active>.r-projects__overflow {display: none;}
 
+    .r-projects__hide {
+        cursor: pointer;
+    }
+
+.r-title {
+    font-size: 19px;
+    margin-bottom: 25px;
+}
+
+.r-form {
+    width: 426px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+    .r-form__elem {
+        overflow: hidden;
+        margin-bottom: 25px;
+        font-size: 14px;
+        color: #7f7f7f;
+    }
+        .r-form__elem_center {
+            text-align: center;
+        }
+
+        .r-form__input {
+            display: block;
+            width: 421px;
+            height: 25px;
+            margin-top: 3px;
+            color: #000;
+        }
+            .r-form__input_textarea {
+                height: 100px;
+                width: 419px;
+            }
+
+        .r-form__button {
+            height: 25px;
+            color: #000;
+        }
 
 
 
