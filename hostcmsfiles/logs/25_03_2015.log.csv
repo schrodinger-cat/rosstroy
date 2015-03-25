@@ -1,0 +1,952 @@
+"2015-03-25 11:28:59",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php,127.0.0.1
+"2015-03-25 11:29:27",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-25 11:30:11",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-25 11:30:15",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-25 11:31:39",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-25 11:31:43",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-25 11:33:37",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2&hostcms[checked][1][238]=1,127.0.0.1
+"2015-03-25 11:40:57",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-25 11:41:00",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-25 11:41:01",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?lib_id=1,127.0.0.1
+"2015-03-25 11:41:04",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=97,127.0.0.1
+"2015-03-25 11:41:05",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=98,127.0.0.1
+"2015-03-25 11:41:05",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=95,127.0.0.1
+"2015-03-25 11:41:05",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=96,127.0.0.1
+"2015-03-25 11:41:28",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?hostcms[checked][0][89]=1,127.0.0.1
+"2015-03-25 11:46:46",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php,127.0.0.1
+"2015-03-25 11:46:50",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17,127.0.0.1
+"2015-03-25 11:46:52",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=9,127.0.0.1
+"2015-03-25 11:56:14",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 11:56:18",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 11:56:24",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 11:56:27",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 11:56:31",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 11:56:38",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 11:56:42",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 14:20:17",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-25 14:20:21",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2,127.0.0.1
+"2015-03-25 14:20:28",admin,"Доступ к модулю ""xsl"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/xsl/index.php?xsl_dir_id=2&hostcms[checked][1][239]=1,127.0.0.1
+"2015-03-25 14:21:21",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-25 14:21:23",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?lib_id=1,127.0.0.1
+"2015-03-25 14:21:25",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=95,127.0.0.1
+"2015-03-25 14:21:26",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=96,127.0.0.1
+"2015-03-25 14:21:26",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=98,127.0.0.1
+"2015-03-25 14:21:26",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=97,127.0.0.1
+"2015-03-25 14:21:32",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?hostcms[checked][0][89]=1,127.0.0.1
+"2015-03-25 14:30:14",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 14:31:30",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][166]=1,127.0.0.1
+"2015-03-25 14:44:17",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 14:44:21",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 14:44:48",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-25 14:44:54",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 14:44:59",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 14:57:41",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][166]=1,127.0.0.1
+"2015-03-25 14:58:29",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:07:49",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 22 element call-template в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:07:57",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): The attribute 'name' is missing. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:07:58",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:08:52",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 22 element call-template в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:08:52",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): The called template 'images' was not found. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:09:04",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:09:05",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dir' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:09:05",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:09:05",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:09:06",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:09:54",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:09:54",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dir' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:09:54",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:09:55",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:09:55",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:00",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:00",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dir' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:00",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:01",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:01",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:15",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:15",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dir' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:15",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:16",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:16",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:26",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:27",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dir' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:27",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:27",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:27",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:38",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:38",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dir' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:39",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:39",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:10:39",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:12:28",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:12:28",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dir' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:12:28",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:12:28",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:12:29",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:13:04",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:13:04",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dir' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:13:04",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:13:05",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:13:05",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:14:37",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:14:37",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dirr' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:14:37",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:14:37",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:14:38",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:19:33",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:19:34",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dirr' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:19:34",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:19:35",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 41 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:19:35",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:30:18",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 43 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:30:19",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): Variable 'dirr' has not been declared. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:30:19",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): xmlXPathCompiledEval: evaluation failed в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:30:19",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): runtime error: file file:///C:/OpenServer/domains/rosstroy/www/ line 43 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:30:20",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): XPath evaluation returned no result. в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\informationsystem\controller\show.php, строка 622,
+Файл: hostcmsfiles\lib\lib_1\lib_1.php, строка 159,
+Файл: modules\lib\model.php, строка 271,
+Файл: modules\core\page.php, строка 138,
+Файл: templates\template13\template.htm, строка 57,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/projects/spatial-planning/the-general-plans/plasma-formation-common-mode-plasma-absorbs-quark/?hostcmsAction=HIDE_XML,127.0.0.1
+"2015-03-25 15:44:07",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:44:09",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:44:13",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:44:22",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][62]=1,127.0.0.1
+"2015-03-25 15:44:28",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:44:31",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:44:39",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие """"",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:44:39",admin,"The file 'upload/information_system_17/1/6/6/item_166/' does not exist.
+35 modules\core\exception.php
+182 modules\core\file.php
+185 modules\property\value\file\model.php
+115 modules\property\value\file\model.php
+89 modules\property\controller\delete\value.php
+1102 modules\admin\form\controller.php
+465 admin\informationsystem\item\index.php",0,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:44:43",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие """"",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:44:43",admin,"The file 'upload/information_system_17/1/6/6/item_166/' does not exist.
+35 modules\core\exception.php
+182 modules\core\file.php
+185 modules\property\value\file\model.php
+115 modules\property\value\file\model.php
+89 modules\property\controller\delete\value.php
+1102 modules\admin\form\controller.php
+465 admin\informationsystem\item\index.php",0,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:44:44",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие """"",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:44:45",admin,"The file 'upload/information_system_17/1/6/6/item_166/' does not exist.
+35 modules\core\exception.php
+182 modules\core\file.php
+185 modules\property\value\file\model.php
+115 modules\property\value\file\model.php
+89 modules\property\controller\delete\value.php
+1102 modules\admin\form\controller.php
+465 admin\informationsystem\item\index.php",0,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:44:45",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие """"",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:44:46",admin,"The file 'upload/information_system_17/1/6/6/item_166/' does not exist.
+35 modules\core\exception.php
+182 modules\core\file.php
+185 modules\property\value\file\model.php
+115 modules\property\value\file\model.php
+89 modules\property\controller\delete\value.php
+1102 modules\admin\form\controller.php
+465 admin\informationsystem\item\index.php",0,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:44:46",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие """"",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:44:47",admin,"The file 'upload/information_system_17/1/6/6/item_166/' does not exist.
+35 modules\core\exception.php
+182 modules\core\file.php
+185 modules\property\value\file\model.php
+115 modules\property\value\file\model.php
+89 modules\property\controller\delete\value.php
+1102 modules\admin\form\controller.php
+465 admin\informationsystem\item\index.php",0,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:44:49",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][166]=1,127.0.0.1
+"2015-03-25 15:44:51",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][166]=1,127.0.0.1
+"2015-03-25 15:44:57",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:45:26",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][166]=1,127.0.0.1
+"2015-03-25 15:46:56",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:46:59",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:47:08",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/property/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][62]=1,127.0.0.1
+"2015-03-25 15:47:12",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:47:16",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:47:24",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие """"",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:47:25",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие """"",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:47:26",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие """"",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:47:26",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие """"",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:47:27",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Интернет-магазин, товары и группы"", действие """"",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php,127.0.0.1
+"2015-03-25 15:47:28",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][166]=1,127.0.0.1
+"2015-03-25 15:47:33",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16,127.0.0.1
+"2015-03-25 15:47:59",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17&informationsystem_group_id=16&hostcms[checked][1][166]=1,127.0.0.1

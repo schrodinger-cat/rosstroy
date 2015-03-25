@@ -176,6 +176,11 @@ textarea {
             height: 267px;
         }
 
+        .r-content_projects {
+            width: 474px;
+            height: 400px;
+        }
+
         .r-content__close {
             width: 17px;
             height: 17px;
@@ -332,6 +337,54 @@ textarea {
     z-index: 1;
 }
 
+.r-projects__title {
+    font-size: 19px;
+}
+
+.r-projects__controls {
+    background-color: #fff;
+    padding: 2px 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    position: absolute;
+    left: 560px;
+    bottom: 75px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13px;
+}
+    .r-projects__left, .r-projects__right {
+        display: inline-block;
+        cursor: pointer;
+    }
+        .r-projects__left {margin: 0 9px 0 12px;}
+        .r-projects__right {margin: 0 13px 0 5px;}
+
+    .r-projects__thumbs {
+        width: 40px;
+        height: 40px;
+        display: inline-block;
+        overflow: hidden;
+        vertical-align: middle;
+        margin-right: 3px;
+        position: relative;
+        box-sizing: border-box;
+        cursor: pointer;
+    }
+        .r-projects__overflow {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 40px;
+            height: 40px;
+            background: url(/images/site/overflow.png) repeat;
+        }
+
+        .r-projects__thumbs:hover>.r-projects__overflow {display: none;}
+        .r-projects__thumbs:hover, .r-projects__thumbs_active {
+            border: 2px solid #00316a;
+        }
+            .r-projects__thumbs_active>.r-projects__overflow {display: none;}
 
 
 
