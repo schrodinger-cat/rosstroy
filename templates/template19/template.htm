@@ -1,0 +1,99 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title><?php Core_Page::instance()->showTitle()?></title>
+
+        <meta name="description" content="<?php Core_Page::instance()->showDescription()?>" />
+        <meta name="keywords" content="<?php Core_Page::instance()->showKeywords()?>" />
+        <meta content="text/html; charset=<?php echo SITE_CODING?>" http-equiv="Content-Type" />
+
+        <link rel="stylesheet" href="/hostcmsfiles/css/normalize.min.css">
+        <link rel="stylesheet" href="/hostcmsfiles/css/main.css">
+
+        <link rel="stylesheet" href="/hostcmsfiles/js/vendor/scroll/jquery.mCustomScrollbar.css">
+        <link rel="stylesheet" href="/hostcmsfiles/js/vendor/vegas/vegas.min.css">
+        <link rel="stylesheet" href="/hostcmsfiles/js/vendor/fb/source/jquery.fancybox.css">
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,700,400italic&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
+
+        <script>window.jQuery || document.write('<script src="/hostcmsfiles/jquery/jquery.js"><\/script>')</script>
+        <script src="/hostcmsfiles/js/vendor/vegas/vegas.min.js"></script>
+
+    </head>
+
+    <body>
+        <div class="r-main">
+            <div class="r-head">
+                <a href="/" class="r-logo">
+                    <img src="/images/site/logo.png" alt="Росстройпроект">
+                </a>
+
+                <?php
+                    $Structure_Controller_Show = new Structure_Controller_Show(
+                        Core_Entity::factory('Site', CURRENT_SITE));    
+
+                    $gid = 0;
+
+                    if (isset(Core_Page::instance()->object->group)) {
+                        $gid = Core_Page::instance()->object->group;
+                    }                    
+
+                    $Structure_Controller_Show->addEntity(
+                          Core::factory('Core_Xml_Entity')
+                          ->name('gid')->value($gid)
+                       );
+
+
+                    $Structure_Controller_Show->xsl(
+                        Core_Entity::factory('Xsl')->getByName('ВерхнееМеню')
+                    )
+                    ->menu(1)
+                    ->showInformationsystemGroups(TRUE)
+                    ->show();
+
+
+                    if (Core_Page::instance()->object->item == null) {
+                        $struct = array(1=>18, 92=>19, 93=>20, 94=>21, 95=>22, 96=>23, 97=>23, 89=>25);
+
+                        $Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+                            Core_Entity::factory('Informationsystem', 18)
+                        );
+
+                        $Informationsystem_Controller_Show
+                            ->xsl(
+                                Core_Entity::factory('Xsl')->getByName('СлайдерФона')
+                            )
+                            ->limit(50)
+                            ->group($struct[CURRENT_STRUCTURE_ID])
+                            ->show();
+
+                    }
+                ?>
+
+                <div class="r-language">
+                    <a href="#" class="r-laguage__elem">en</a>
+                    <a href="#" class="r-laguage__elem r-language__elem_current">ru</a>                    
+                </div>
+            </div>
+            
+            <?php
+                Core_Page::instance()->execute();
+            ?>
+
+            <div class="r-bottom">
+            	<a href="http://hostcms.ru" class="r-bottom__elem">HostCMS</a>
+                <a href="mailto:rosstroyproekt@mail.ru" class="r-bottom__elem">rosstroyproekt@mail.ru</a>
+                <span class="r-bottom__elem">© НИиПИ "РОССТРОЙПРОЕКТ"</span>
+                <span class="r-bottom__elem">Волгоград 2010 - 2015</span>
+            </div>
+        </div>
+
+        <script src="/hostcmsfiles/js/vendor/scroll/jquery.mCustomScrollbar.concat.min.js"></script>
+        <script src="/hostcmsfiles/js/vendor/bxSlider/jquery.bxslider.min.js"></script>
+        <script src="/hostcmsfiles/js/vendor/fb/source/jquery.fancybox.pack.js"></script>
+
+        <script src="/hostcmsfiles/js/plugins.js"></script>
+        <script src="/hostcmsfiles/js/main.js"></script>
+    </body>
+</html>

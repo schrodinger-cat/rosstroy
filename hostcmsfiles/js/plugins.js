@@ -24,7 +24,7 @@
 // Place any jQuery/helper plugins in here.
 
 $(document).ready(function(){
-    $('.r-content').mCustomScrollbar({
+    $('.r-content__text').mCustomScrollbar({
         axis: 'y',
         theme:"dark",
         scrollButtons: {
@@ -41,5 +41,8 @@ $(document).ready(function(){
         prevText: ''
     });
 
-    $('.r-bg__slider').bxSlider();
+    $(".fancybox").fancybox({
+        padding: 0,
+        arrows: true
+    });
 });

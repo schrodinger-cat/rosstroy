@@ -122,6 +122,11 @@ textarea {
                 background-color: #fff;
                 padding: 2px;
             }
+                .r-menu__last_wrap {
+                    clear: both;
+                    overflow: hidden;
+                }
+
                 .r-menu__last:hover, .r-menu__last_active {
                     background-color: #a30000;
                     color: #fff;
@@ -186,12 +191,24 @@ textarea {
             height: 17px;
             background: url(/images/site/close__icon.jpg) 0 0 no-repeat;
             cursor: pointer;
-            position: fixed;
+            position: absolute;
             overflow: hidden;
-            margin-left: 727px;
-            margin-top: -25px;
+            /* margin-left: 727px;
+            margin-top: -25px; */
+            top: 7px;
+            right: 7px;
         }
             .r-content__close_contacts {margin-left: 450px;}
+
+        .r-content_hide {
+            width: 315px;
+            height: 45px;
+        }
+
+        .r-content__text {
+            width: 100%;
+            height: 100%;
+        }
 
     .r-bottom {
         font-family: 'Ubuntu', sans-serif;
@@ -269,9 +286,9 @@ textarea {
 
 .r-portrets__wrap {    
     width: 875px;
-    height: 715px;
+    /* height: 715px; */
     margin: 0 auto;
-    margin-top: 100px;
+    padding-top: 50px;
 }
     .bx-wrapper, .bx-viewport {
         width: 875px;
@@ -303,7 +320,7 @@ textarea {
         -webkit-border-radius: 5px;
         -moz-border-radius: 5px;
         border-radius: 5px;
-        margin-bottom: 48px;
+        margin-top: 48px;
         padding: 14px;
         text-decoration: none;
         font-size: 16px;

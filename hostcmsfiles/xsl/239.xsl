@@ -11,8 +11,11 @@
 	
 	<xsl:template match="/">
 		<div class="r-content r-content_projects">
-			<div class="r-content__close r-content__close_contacts"></div>
-			<xsl:apply-templates select="/informationsystem/informationsystem_item"/>
+			<div class="r-content__close"></div>
+			
+			<div class="r-content__text">
+				<xsl:apply-templates select="/informationsystem/informationsystem_item"/>
+			</div>
 		</div>
 
 		<div class="r-projects__controls">

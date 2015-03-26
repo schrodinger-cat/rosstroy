@@ -63,7 +63,9 @@
 
 	<xsl:template match="property_value" mode="photos">
 		<xsl:param name="is_dir" />
-		<img src="{$is_dir}{file_small}" class="r-news__img" alt="{file_name}"/>
+		<a href="{$is_dir}{file}" class="fancybox" rel="group">
+			<img src="{$is_dir}{file_small}" class="r-news__img" alt="{file_name}"/>
+		</a>
 	</xsl:template>
 
 </xsl:stylesheet>

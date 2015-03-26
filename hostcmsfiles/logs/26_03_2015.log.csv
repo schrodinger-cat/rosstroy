@@ -1,0 +1,130 @@
+"2015-03-26 11:47:29",admin,"Выход из системы управления",1,Росстройпроект,http://rosstroy.dev/admin/logout.php?_=1427359648318,127.0.0.1
+"2015-03-26 12:04:02",admin,"Вход в систему управления",4,-,http://rosstroy.dev/admin/index.php,127.0.0.1
+"2015-03-26 12:04:12",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php,127.0.0.1
+"2015-03-26 12:04:18",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17,127.0.0.1
+"2015-03-26 14:27:05",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17,127.0.0.1
+"2015-03-26 14:29:47",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php,127.0.0.1
+"2015-03-26 14:29:49",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15,127.0.0.1
+"2015-03-26 14:29:52",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15,127.0.0.1
+"2015-03-26 14:30:08",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&hostcms[checked][0][0]=1,127.0.0.1
+"2015-03-26 14:31:45",admin,"<strong>Замечание:</strong> Undefined variable: gid в файле C:\OpenServer\domains\rosstroy\www\templates\template1\template.htm (строка 41)
+Стек вызовов:
+Файл: templates\template1\template.htm, строка 41,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",2,Росстройпроект,http://rosstroy.dev/institute/about-the-institute/,127.0.0.1
+"2015-03-26 14:53:31",admin,"<strong>Замечание:</strong> Undefined variable: gid в файле C:\OpenServer\domains\rosstroy\www\templates\template1\template.htm (строка 41)
+Стек вызовов:
+Файл: templates\template1\template.htm, строка 41,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",2,Росстройпроект,http://rosstroy.dev/institute/about-the-institute/,127.0.0.1
+"2015-03-26 14:53:45",admin,"<strong>Замечание:</strong> Undefined variable: gid в файле C:\OpenServer\domains\rosstroy\www\templates\template1\template.htm (строка 41)
+Стек вызовов:
+Файл: templates\template1\template.htm, строка 41,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",2,Росстройпроект,http://rosstroy.dev/institute/about-the-institute/,127.0.0.1
+"2015-03-26 15:27:52",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): Invalid expression в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template1\template.htm, строка 51,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/,127.0.0.1
+"2015-03-26 15:27:53",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): compilation error: file file:///C:/OpenServer/domains/rosstroy/www/ line 68 element value-of в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template1\template.htm, строка 51,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/,127.0.0.1
+"2015-03-26 15:27:53",admin,"<strong>Предупреждение:</strong> XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '$current_structure_id]' в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 49)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 49,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template1\template.htm, строка 51,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/,127.0.0.1
+"2015-03-26 15:27:53",admin,"<strong>Предупреждение:</strong> XSLTProcessor::transformToDoc(): No stylesheet associated to this object в файле C:\OpenServer\domains\rosstroy\www\modules\xsl\processor\xslt.php (строка 53)
+Стек вызовов:
+Файл: modules\xsl\processor\xslt.php, строка 53,
+Файл: modules\core\controller.php, строка 182,
+Файл: modules\structure\controller\show.php, строка 281,
+Файл: templates\template1\template.htm, строка 51,
+Файл: modules\template\model.php, строка 86,
+Файл: modules\core\page.php, строка 138,
+Файл: modules\core\command\controller\default.php, строка 417,
+Файл: modules\core\router\route.php, строка 190,
+Файл: index.php, строка 242",3,Росстройпроект,http://rosstroy.dev/institute/news/,127.0.0.1
+"2015-03-26 15:31:31",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-26 15:31:35",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88,127.0.0.1
+"2015-03-26 15:32:13",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15,127.0.0.1
+"2015-03-26 15:32:20",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&hostcms[checked][1][152]=1,127.0.0.1
+"2015-03-26 15:33:29",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:33:33",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:33:37",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:33:41",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:33:44",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:33:49",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:33:53",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:33:57",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:34:00",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:34:06",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:34:14",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=15&informationsystem_group_id=24,127.0.0.1
+"2015-03-26 15:59:48",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-26 15:59:55",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88,127.0.0.1
+"2015-03-26 15:59:58",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88,127.0.0.1
+"2015-03-26 16:00:00",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?lib_id=1,127.0.0.1
+"2015-03-26 16:00:02",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=96,127.0.0.1
+"2015-03-26 16:00:03",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=97,127.0.0.1
+"2015-03-26 16:00:03",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=95,127.0.0.1
+"2015-03-26 16:00:04",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=98,127.0.0.1
+"2015-03-26 16:00:09",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?parent_id=88&hostcms[checked][0][93]=1,127.0.0.1
+"2015-03-26 16:22:20",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php,127.0.0.1
+"2015-03-26 16:22:37",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=17,127.0.0.1
+"2015-03-26 16:23:13",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php,127.0.0.1
+"2015-03-26 16:23:14",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18,127.0.0.1
+"2015-03-26 16:23:22",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18,127.0.0.1
+"2015-03-26 16:23:26",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18&hostcms[checked][0][0]=1,127.0.0.1
+"2015-03-26 16:23:30",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=25,127.0.0.1
+"2015-03-26 16:23:32",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=25,127.0.0.1
+"2015-03-26 16:23:47",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=25&hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-26 16:23:53",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18,127.0.0.1
+"2015-03-26 16:23:58",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/index.php,127.0.0.1
+"2015-03-26 16:24:00",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18,127.0.0.1
+"2015-03-26 16:24:21",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-26 16:32:19",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=21,127.0.0.1
+"2015-03-26 16:32:21",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=21,127.0.0.1
+"2015-03-26 16:32:32",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=21&hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-26 16:32:34",admin,"Доступ к модулю ""informationsystem"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/informationsystem/item/index.php?informationsystem_id=18&informationsystem_group_id=21&hostcms[checked][1][0]=1,127.0.0.1
+"2015-03-26 16:34:55",admin,"Доступ к модулю ""template"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy.dev/admin/template/index.php,127.0.0.1
+"2015-03-26 16:35:00",admin,"Доступ к модулю ""template"" разрешен, форма ""Почтовые рассылки"", действие ""Копировать""",1,Росстройпроект,http://rosstroy.dev/admin/template/index.php,127.0.0.1
+"2015-03-26 16:35:02",admin,"Доступ к модулю ""template"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/template/index.php,127.0.0.1
+"2015-03-26 16:35:12",admin,"Доступ к модулю ""template"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/template/index.php?hostcms[checked][1][19]=1,127.0.0.1
+"2015-03-26 16:35:14",admin,"Доступ к модулю ""template"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/template/index.php,127.0.0.1
+"2015-03-26 16:35:46",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php,127.0.0.1
+"2015-03-26 16:35:47",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка параметров динамических страниц""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?lib_id=1,127.0.0.1
+"2015-03-26 16:35:48",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=98,127.0.0.1
+"2015-03-26 16:35:48",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=97,127.0.0.1
+"2015-03-26 16:35:48",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=95,127.0.0.1
+"2015-03-26 16:35:49",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=96,127.0.0.1
+"2015-03-26 16:35:53",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?hostcms[checked][0][89]=1,127.0.0.1

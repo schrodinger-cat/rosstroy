@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="/hostcmsfiles/css/main.css">
 
         <link rel="stylesheet" href="/hostcmsfiles/js/vendor/scroll/jquery.mCustomScrollbar.css">
+        <link rel="stylesheet" href="/hostcmsfiles/js/vendor/fb/source/jquery.fancybox.css">
         <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,700,400italic&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
 
     </head>
@@ -45,10 +46,13 @@
             <div class="r-map" id="r-map"></div>
             
             <div class="r-content r-content_contacts">
-                <div class="r-content__close r-content__close_contacts"></div>
+                <div class="r-content__close"></div>
+
+                <div class="r-content__text">
                     <?php
                         Core_Page::instance()->execute();
                     ?>
+                </div>
             </div>
 
             <div class="r-bottom">
@@ -62,6 +66,7 @@
         <script>window.jQuery || document.write('<script src="/hostcmsfiles/jquery/jquery.js"><\/script>')</script>
         <script src="/hostcmsfiles/js/vendor/scroll/jquery.mCustomScrollbar.concat.min.js"></script>
         <script src="/hostcmsfiles/js/vendor/bxSlider/jquery.bxslider.min.js"></script>
+        <script src="/hostcmsfiles/js/vendor/fb/source/jquery.fancybox.pack.js"></script>
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;amp;sensor=false"></script>
 
         <script src="/hostcmsfiles/js/plugins.js"></script>

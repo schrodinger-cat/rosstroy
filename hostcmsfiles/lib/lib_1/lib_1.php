@@ -146,10 +146,10 @@ else
 }
 
 // В корне выводим из всех групп
-/*if ($Informationsystem_Controller_Show->group == 0)
+if (CURRENT_STRUCTURE_ID == 93 && $Informationsystem_Controller_Show->group == 0)
 {
 	$Informationsystem_Controller_Show->group(FALSE);
-}*/
+}
 
 $Informationsystem_Controller_Show
 	->xsl(

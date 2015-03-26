@@ -24,6 +24,23 @@ $('.r-projects__hide').click(function(){
 	}
 });
 
+cnt_hide = 0;
+
+$('.r-content__close').click(function(){
+	if (cnt_hide == 0) {
+		$('.r-content').addClass('r-content_hide');
+		$('.r-content__text').hide();
+
+		cnt_hide = 1;
+	} else {
+		$('.r-content').removeClass('r-content_hide');
+		$('.r-content__text').show();
+
+		cnt_hide = 0;
+	}
+	
+});
+
 function initialize() {
 	var myLatlng = new google.maps.LatLng(48.7017566,44.4978932);
 	var markerLat = new google.maps.LatLng(48.7017566,44.4978932);

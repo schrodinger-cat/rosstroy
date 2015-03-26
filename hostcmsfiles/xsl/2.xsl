@@ -52,23 +52,25 @@
 					</xsl:if>
 				</xsl:when>
 				<xsl:otherwise>
+
 					<xsl:choose>
 						<xsl:when test="count(structure[@id = $parent]/informationsystem_group) != 0">
-
 							<div class="r-menu__inner">
 								<xsl:apply-templates select="structure[@id = $parent]/informationsystem_group" mode="ig_second"/>
-							</div>
-
-							<xsl:if test="count(structure[@id = $parent]/informationsystem_group/informationsystem_group) != 0">
-								<xsl:apply-templates select="structure[@id = $parent]/informationsystem_group/informationsystem_group" mode="ig_last"/>
-							</xsl:if>
+							</div>							
 
 						</xsl:when>
 						<xsl:otherwise>
-
 							<div class="r-menu__inner">
 								<xsl:apply-templates select="structure[@id = $parent]/structure" mode="second"/>
 							</div>
+
+
+							<xsl:if test="count(.//structure[@id = $current_structure_id]/informationsystem_group) != 0">
+								<div class="r-menu__last_wrap">
+									<xsl:apply-templates select=".//structure[@id = $current_structure_id]/informationsystem_group" mode="ig_last"/>
+								</div>
+							</xsl:if>
 
 						</xsl:otherwise>
 					</xsl:choose>					

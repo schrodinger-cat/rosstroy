@@ -12,7 +12,10 @@
 	<xsl:template match="/">
 		<div class="r-content">
             <div class="r-content__close"></div>
-			<xsl:apply-templates select="/informationsystem/informationsystem_item"/>
+
+            <div class="r-content__text">
+				<xsl:apply-templates select="/informationsystem/informationsystem_item"/>
+			</div>
 		</div>
 	</xsl:template>
 	
@@ -31,7 +34,9 @@
 			<xsl:if test="count(property_value) != 0">
 				<div class="r-news__photos">
 					<xsl:if test="image_large != ''">
-						<img src="{dir}{image_large}" class="r-news__main-photo" alt="{name}"/>	
+						<a href="{dir}{image_large}" class="fancybox" rel="group">
+							<img src="{dir}{image_large}" class="r-news__main-photo" alt="{name}"/>	
+						</a>
 					</xsl:if>
 
 					<xsl:apply-templates select="property_value" mode="photos">
@@ -45,11 +50,13 @@
 	
 	<xsl:template match="property_value" mode="photos">
 		<xsl:param name="is_dir" />
-		<img src="{$is_dir}{file_small}" class="r-news__img r-news__img_portrets" alt="{file_name}">
-			<xsl:if test="position() mod 2 = 0">
-				<xsl:attribute name="class">r-news__img r-news__img_portrets r-portrets_nomargin</xsl:attribute>
-			</xsl:if>
-		</img>
+		<a href="{$is_dir}{file}" class="fancybox" rel="group">
+			<img src="{$is_dir}{file_small}" class="r-news__img r-news__img_portrets" alt="{file_name}">
+				<xsl:if test="position() mod 2 = 0">
+					<xsl:attribute name="class">r-news__img r-news__img_portrets r-portrets_nomargin</xsl:attribute>
+				</xsl:if>
+			</img>
+		</a>
 	</xsl:template>
 	
 </xsl:stylesheet>

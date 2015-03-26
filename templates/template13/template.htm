@@ -14,6 +14,7 @@
 
         <link rel="stylesheet" href="/hostcmsfiles/js/vendor/scroll/jquery.mCustomScrollbar.css">
         <link rel="stylesheet" href="/hostcmsfiles/js/vendor/vegas/vegas.min.css">
+        <link rel="stylesheet" href="/hostcmsfiles/js/vendor/fb/source/jquery.fancybox.css">
         <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,700,400italic&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
 
         <script>window.jQuery || document.write('<script src="/hostcmsfiles/jquery/jquery.js"><\/script>')</script>
@@ -30,7 +31,8 @@
 
                 <?php
                     $Structure_Controller_Show = new Structure_Controller_Show(
-                        Core_Entity::factory('Site', CURRENT_SITE));                    
+                        Core_Entity::factory('Site', CURRENT_SITE));    
+
                     $gid = 0;
 
                     if (isset(Core_Page::instance()->object->group)) {
@@ -49,6 +51,22 @@
                     ->menu(1)
                     ->showInformationsystemGroups(TRUE)
                     ->show();
+
+
+                    $struct = array(1=>18, 92=>19, 93=>20, 94=>21, 95=>22, 96=>23, 97=>23, 89=>25);
+
+                    $Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+                        Core_Entity::factory('Informationsystem', 18)
+                    );
+
+                    $Informationsystem_Controller_Show
+                        ->xsl(
+                            Core_Entity::factory('Xsl')->getByName('СлайдерФона')
+                        )
+                        ->limit(50)
+                        ->group($struct[CURRENT_STRUCTURE_ID])
+                        ->show();
+
                 ?>
 
                 <div class="r-language">
@@ -71,6 +89,7 @@
 
         <script src="/hostcmsfiles/js/vendor/scroll/jquery.mCustomScrollbar.concat.min.js"></script>
         <script src="/hostcmsfiles/js/vendor/bxSlider/jquery.bxslider.min.js"></script>
+        <script src="/hostcmsfiles/js/vendor/fb/source/jquery.fancybox.pack.js"></script>
 
         <script src="/hostcmsfiles/js/plugins.js"></script>
         <script src="/hostcmsfiles/js/main.js"></script>
