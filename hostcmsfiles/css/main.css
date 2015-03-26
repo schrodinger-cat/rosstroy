@@ -50,6 +50,7 @@ textarea {
     margin: 0 auto;
     overflow: hidden;
     position: relative;
+    min-height: 963px;
 }
     .r-head {
         overflow: hidden;
@@ -201,8 +202,9 @@ textarea {
             .r-content__close_contacts {margin-left: 450px;}
 
         .r-content_hide {
-            width: 315px;
-            height: 45px;
+            width: 169px;
+            height: 31px;
+            padding: 0;
         }
 
         .r-content__text {

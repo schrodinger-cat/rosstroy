@@ -128,3 +128,4 @@
 "2015-03-26 16:35:48",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=95,127.0.0.1
 "2015-03-26 16:35:49",admin,"Доступ к модулю ""structure"" разрешен, форма ""Структура сайта"", действие ""Ajax-загрузка XSL-шаблонов""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?xsl_dir_id=2&lib_property_id=96,127.0.0.1
 "2015-03-26 16:35:53",admin,"Доступ к модулю ""structure"" разрешен, форма ""Сводная статистика"", действие ""Установка начальных значений параметров счетчика""",1,Росстройпроект,http://rosstroy.dev/admin/structure/index.php?hostcms[checked][0][89]=1,127.0.0.1
+"2015-03-26 20:04:46",admin,"Доступ к модулю ""structure"" разрешен, форма ""Основная"", действие ""Просмотр""",1,Росстройпроект,http://rosstroy/admin/structure/index.php?parent_id=90,127.0.0.1
