@@ -48,6 +48,16 @@
             <div class="r-content r-content_contacts">
                 <div class="r-content__close"></div>
 
+                <?php
+                    $str = Core_Page::instance()->title;
+                    $last = explode('-', $str);
+                    $last = array_pop($last);
+                ?>
+
+                <div class="r-hidden__title">
+                    <a href="<?= $_SERVER['REQUEST_URI'] ?>" class="r-hidden__link"><?= $last ?></a>
+                </div>
+
                 <div class="r-content__text">
                     <?php
                         Core_Page::instance()->execute();

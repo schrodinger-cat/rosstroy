@@ -11,9 +11,15 @@
 	
 	<xsl:template match="/">
 		<div class="r-content">
-            <div class="r-content__close"></div>
-
-            <div class="r-content__text">
+			<div class="r-content__close"></div>
+			
+			<div class="r-hidden__title">
+				<a href="{/informationsystem/informationsystem_item/url}" class="r-hidden__link">
+					<xsl:value-of disable-output-escaping="yes" select="/informationsystem/name"/>
+				</a>
+			</div>
+			
+			<div class="r-content__text">
 				<xsl:apply-templates select="/informationsystem/informationsystem_item"/>
 			</div>
 		</div>
@@ -35,16 +41,16 @@
 				<div class="r-news__photos">
 					<xsl:if test="image_large != ''">
 						<a href="{dir}{image_large}" class="fancybox" rel="group">
-							<img src="{dir}{image_large}" class="r-news__main-photo" alt="{name}"/>	
+							<img src="{dir}{image_large}" class="r-news__main-photo" alt="{name}"/>
 						</a>
 					</xsl:if>
-
+					
 					<xsl:apply-templates select="property_value" mode="photos">
 						<xsl:with-param name="is_dir"><xsl:value-of select="dir"/></xsl:with-param>
 					</xsl:apply-templates>
 				</div>
 			</xsl:if>
-						
+			
 		</div>
 	</xsl:template>
 	

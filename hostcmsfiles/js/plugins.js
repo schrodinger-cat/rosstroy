@@ -41,6 +41,18 @@ $(document).ready(function(){
         prevText: ''
     });
 
+    $('.r-nom').bxSlider({
+        pager: false,
+        minSlides: 2,
+        maxSlides: 2,
+        slideWidth: 200,
+        slideMargin: 30,
+        nextSelector: '.r-nom__next',
+        prevSelector: '.r-nom__prev',
+        nextText: '',
+        prevText: ''
+    });
+
     $(".fancybox").fancybox({
         padding: 0,
         arrows: true

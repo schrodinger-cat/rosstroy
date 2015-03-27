@@ -30,11 +30,19 @@ $('.r-content__close').click(function(){
 	if (cnt_hide == 0) {
 		$('.r-content').addClass('r-content_hide');
 		$('.r-content__text').hide();
+		$('.r-hidden__title').show();
 
 		cnt_hide = 1;
 	} else {
 		$('.r-content').removeClass('r-content_hide');
 		$('.r-content__text').show();
+
+		if($('.r-hidden__title').hasClass('r-hidden__title_visible')) {			
+			$('.r-hidden__title').show();
+		} else {			
+			$('.r-hidden__title').hide();
+		}
+		
 
 		cnt_hide = 0;
 	}

@@ -50,7 +50,7 @@ textarea {
     margin: 0 auto;
     overflow: hidden;
     position: relative;
-    min-height: 963px;
+    min-height: 850px;
 }
     .r-head {
         overflow: hidden;
@@ -187,6 +187,12 @@ textarea {
             height: 400px;
         }
 
+        .r-content_main {
+            width: 529px;
+            height: auto;
+            padding: 15px 7px 20px 7px;
+        }
+
         .r-content__close {
             width: 17px;
             height: 17px;
@@ -198,13 +204,14 @@ textarea {
             margin-top: -25px; */
             top: 7px;
             right: 7px;
+            z-index: 1000;
         }
             .r-content__close_contacts {margin-left: 450px;}
 
         .r-content_hide {
-            width: 169px;
+            width: auto; /*169*/
             height: 31px;
-            padding: 0;
+            padding: 0 40px 0 0;
         }
 
         .r-content__text {
@@ -446,8 +453,56 @@ textarea {
             color: #000;
         }
 
+.r-hidden__title {
+    background: url(/images/site/hidden__title.jpg) center left no-repeat;
+    padding-left: 18px;
+    overflow: hidden;
+    margin-left: 13px;
+    margin-bottom: 20px;
+    display: none;
+}
+    .r-hidden__title_visible {
+        display: block;
+    }
 
+    .r-hidden__link {
+        font-size: 19px;
+        color: #00316a;
+    }
+        .r-hidden__link:hover {text-decoration: none;}
 
+.r-nom__elem {
+    width: 200px;
+    overflow: hidden;
+
+}
+    .r-nom__date {
+        font-size: 14px;
+    }
+
+    .r-nom__link {
+        font-size: 16px;
+        color: #000;
+    }
+        .r-nom__link:hover {text-decoration: none;}
+
+    .r-nom__prev .bx-prev, .r-nom__next .bx-next{
+        position: absolute;
+        width: 11px;
+        height: 50px;
+        top: 50%;
+        margin-top: -25px;
+        cursor: pointer;
+    }
+        .r-nom__prev .bx-prev {
+            background: url(/images/site/nom__left.jpg) 0 0 no-repeat;
+            left: 0;
+        }
+
+        .r-nom__next .bx-next {
+            background: url(/images/site/nom__right.jpg) 0 0 no-repeat;
+            right: 0;
+        }
 
 
 

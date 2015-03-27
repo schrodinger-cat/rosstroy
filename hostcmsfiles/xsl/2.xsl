@@ -29,13 +29,18 @@
 
 								<xsl:choose>
 									<xsl:when test=".//informationsystem_group[@id = $gid]/subgroups_total_count != 0">
-										<xsl:apply-templates select=".//informationsystem_group[@id = $gid]/informationsystem_group" mode="ig_last"/>
+										<div class="r-menu__last_wrap">
+											<xsl:apply-templates select=".//informationsystem_group[@id = $gid]/informationsystem_group" mode="ig_last"/>
+										</div>
 									</xsl:when>
 									<xsl:otherwise>
 
 										<xsl:if test=".//informationsystem_group[@id = $gid]/parent_id != 0">
 											<xsl:variable name="g_parent" select=".//informationsystem_group[@id = $gid]/parent_id"/>
-											<xsl:apply-templates select=".//informationsystem_group[@id = $g_parent]/informationsystem_group" mode="ig_last"/>
+
+											<div class="r-menu__last_wrap">
+												<xsl:apply-templates select=".//informationsystem_group[@id = $g_parent]/informationsystem_group" mode="ig_last"/>
+											</div>
 										</xsl:if>
 									</xsl:otherwise>
 								</xsl:choose>

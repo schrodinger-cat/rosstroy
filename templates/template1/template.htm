@@ -71,8 +71,34 @@
                 </div>
             </div>
 
-            <div class="r-content">
+            <?php
+                if(CURRENT_STRUCTURE_ID == 1) {
+            ?>
+                <div class="r-content r-content_main">
+            <?php } else { ?>
+                <div class="r-content">
+            <?php } ?>
+
                 <div class="r-content__close"></div>
+
+                <?php 
+                    if(CURRENT_STRUCTURE_ID == 1) {
+                        $class = 'r-hidden__title_visible';
+                    } else {
+                        $class = null;
+                    }
+                ?>
+                <div class="r-hidden__title <?= $class ?>">
+                    <?php if (CURRENT_STRUCTURE_ID == 1) { ?>
+                        <a href="/institute/news/" class="r-hidden__link">Новости</a>
+                    <?php } else { 
+                            $str = Core_Page::instance()->title;
+                            $last = explode('-', $str);
+                            $last = array_pop($last);
+                        ?>
+                        <a href="<?= $_SERVER['REQUEST_URI'] ?>" class="r-hidden__link"><?= $last; ?></a>
+                    <?php } ?>
+                </div>
                 
                 <div class="r-content__text">
                     <?php

@@ -12,6 +12,12 @@
 	<xsl:template match="/">
 		<div class="r-content r-content_projects">
 			<div class="r-content__close"></div>
+
+			<div class="r-hidden__title">
+				<a href="{/informationsystem/informationsystem_item/url}" class="r-hidden__link">
+					<xsl:value-of disable-output-escaping="yes" select="/informationsystem/name"/>
+				</a>
+			</div>
 			
 			<div class="r-content__text">
 				<xsl:apply-templates select="/informationsystem/informationsystem_item"/>
